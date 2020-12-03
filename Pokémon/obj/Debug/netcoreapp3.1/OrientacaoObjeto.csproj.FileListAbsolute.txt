@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.exe
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.deps.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\bin\Debug\netcoreapp3.1\OrientacaoObjeto.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\obj\Debug\netcoreapp3.1\OrientacaoObjeto.genruntimeconfig.cache
