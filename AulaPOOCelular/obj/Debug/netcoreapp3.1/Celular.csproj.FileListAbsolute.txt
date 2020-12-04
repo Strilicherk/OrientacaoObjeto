@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.exe
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.deps.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\bin\Debug\netcoreapp3.1\Celular.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\AulaPOOCelular\obj\Debug\netcoreapp3.1\Celular.genruntimeconfig.cache
