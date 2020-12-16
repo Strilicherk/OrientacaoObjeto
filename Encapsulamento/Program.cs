@@ -1,18 +1,18 @@
 ﻿using System;
-using Encapsulamento.Classes;
+using POO_Encapsulamento.classes;
 
-namespace Encapsulamento
+namespace POO_Encapsulamento
 {
     class Program
     {
         static void Main(string[] args)
         {
-            MasterCard m = new MasterCard();
-            m.NomeTitular = "Carlos Eduardo Tsukamoto";
-            
-            m.Numero = "123456789"; // SET
-
-            Console.WriteLine($"O Titular {m.NomeTitular} - Token {m.Token}"); //GET
+            Mastercard m = new Mastercard();
+            m.NomeTitular = "Matheus Strilicherk";
+            m.Numero = "12345678";
+            m.Bandeira = "Mastercard";
+            m.CVV = "666";
+            Console.WriteLine($"O títular: {m.NomeTitular}\nToken: {m.Token}\nNúmero: {m.Numero}\nBandeira: {m.Bandeira}\nCVV: {m.CVV}\nLimite: {m.Limite}");
         }
     }
 }
