@@ -1,22 +1,29 @@
+using System;
+
 namespace POO_Abstracao.Classes
 {
     public class Boleto : Pagamento
     {
-        private string codigoDeBarras;
-        public string CodigoDeBarras{
+        private float codigoDeBarras;
+        public float CodigoDeBarras{
             get{return codigoDeBarras;}
         }
-        public void Registrar(string valor){
-            this.codigoDeBarras = valor;
-        }
-        public override string Desconto(int valor)
-        {
-            return "";
+        public void Registrar(){
+            Random randomico = new Random();
+            this.codigoDeBarras = randomico.Next();
         }
 
-        public override string Juros(int parcelas)
-        {
-            return "";
+        public void GerarBoleto(){
+
+            float total =this.Valor - (this.Valor * 0.12f);
+            Console.WriteLine($"O valor do Boleto -- R${total}");
+            Console.WriteLine($"Data - {this.Data}");
+            Console.WriteLine($"Data de Vencimento {this.Data.AddDays(10)}");
+            Console.WriteLine($"Código de Barras {this.CodigoDeBarras}");
+            
         }
+        // public void Registrar(string valor){
+        //     this.codigoDeBarras = valor;
+        // }
     }
 }

@@ -7,17 +7,9 @@ namespace POO_Abstracao.Classes
         public string titular;
         public string cvv;
 
-        public string SalvarCaratao(){
+        public string SalvarCartao(){
             return "";
         }
-        public override string Desconto(int valor)
-        {
-            return "";
-        }
-
-        public override string Juros(int parcelas)
-        {
-            return "";
-        }
+        protected abstract void Pagar();
     }
 }

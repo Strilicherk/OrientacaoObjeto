@@ -1,4 +1,5 @@
 ﻿using System;
+using POO_Polimorfismo.Classes;
 
 namespace POO_Polimorfismo
 {
@@ -6,7 +7,9 @@ namespace POO_Polimorfismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MegaMan mega = new MegaMan();
+
+            mega.Correr();
         }
     }
 }
