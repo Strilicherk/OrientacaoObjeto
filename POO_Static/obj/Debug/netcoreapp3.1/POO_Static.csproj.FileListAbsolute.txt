@@ -1,0 +1,13 @@
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.exe
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.deps.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.runtimeconfig.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.runtimeconfig.dev.json
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.csprojAssemblyReference.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.AssemblyInfoInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.AssemblyInfo.cs
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.csproj.CoreCompileInputs.cache
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.dll
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.pdb
+D:\Escolar\SENAI\GitHub\Backend\OrientacaoObjeto\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.genruntimeconfig.cache

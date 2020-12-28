@@ -1,15 +1,22 @@
 namespace POO_Abstracao.Classes
 {
-    public abstract class Cartao : Pagamento
+    public abstract class Cartao : Pagamentos
     {
         public string bandeira;
         public string numero;
         public string titular;
         public string cvv;
 
-        public string SalvarCartao(){
+        public override string Desconto(float valor)
+        {
             return "";
         }
-        protected abstract void Pagar();
+
+        public string SalvarCartao(){
+            return $"Bandeira: {bandeira}\nNúmero: {numero}\nTitular: {titular}\nCVV: {cvv}";
+        }
+
+
+
     }
 }

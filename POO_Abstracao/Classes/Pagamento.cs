@@ -2,18 +2,17 @@ using System;
 
 namespace POO_Abstracao.Classes
 {
-    public abstract class Pagamento
+    public abstract class Pagamentos
     {
         private DateTime data;
-        public DateTime Data{
-            get;set;
-        }
         protected float valor;
-        public float Valor{
-            get;set;
-        }
+
         public string Cancelar(){
-            return "";
+            return $"Cancelamento feito em {data}";
         }
+
+        public abstract string Desconto(float valor);
+
+
     }
 }

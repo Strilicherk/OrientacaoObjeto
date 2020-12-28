@@ -1,9 +1,9 @@
 namespace POO_Static.obj
 {
-    public class Conversor
+    public static class Conversor
     {
-        private static float cotacaoDolar = 5.10f;
-        private static float valorUsuario;
+        public static float cotacaoDolar;
+        public static float valorUsuario;
 
         public static float ConverterDolarParaReal(){
             return valorUsuario * cotacaoDolar;
